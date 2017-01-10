@@ -1,0 +1,13 @@
+{
+  "components": {
+    "plugins": {
+      "analyze": {
+        "src": "src/plugins/analyze",
+        "test": "test/plugins/analyze"
+      }
+    }
+  },
+  "dependencies": {
+    "plugins": {}
+  }
+}
