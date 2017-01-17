@@ -3,7 +3,7 @@ Repo for AHP modeled in WebGME
 
 ## Example
 
-An example of webgme-ahp can be found at [ahpNegotiation.com](ahpNegotiation.com)
+An example of webgme-ahp can be found at [ahpNegotiation.com](http://ahpNegotiation.com)
 
 ## Installation
 First, install the webgme-ahp following:
